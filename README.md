@@ -3,7 +3,7 @@
 This project is an interactive web application for visualizing the LU decomposition process in linear algebra. It allows users to input a square matrix and see the step-by-step transformation into lower (L) and upper (U) triangular matrices using elementary row operations.
 
 ## Live demo:
-[Click here](https://samar-website-topaz.vercel.app/)
+[Click here](https://lu-decomposition-tool2.vercel.app/)
 
 ## Table of Contents
 
