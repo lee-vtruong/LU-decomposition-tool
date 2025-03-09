@@ -1,6 +1,9 @@
-### LU Decomposition Visualization Tool
+# LU Decomposition Visualization Tool
 
 This project is an interactive web application for visualizing the LU decomposition process in linear algebra. It allows users to input a square matrix and see the step-by-step transformation into lower (L) and upper (U) triangular matrices using elementary row operations.
+
+## Live demo:
+[Click here](https://samar-website-topaz.vercel.app/)
 
 ## Table of Contents
 
@@ -129,11 +132,3 @@ If you'd like to contribute to this project, please follow these steps:
 3. Make your changes and commit them with clear messages.
 4. Push your changes to your fork.
 5. Submit a pull request.
-
-
-Potential areas for improvement:
-
-- Add support for partial pivoting for better numerical stability
-- Implement additional matrix decomposition methods (e.g., QR, Cholesky)
-- Add export functionality for matrices and steps
-- Improve the fraction display algorithm for more complex fractions
